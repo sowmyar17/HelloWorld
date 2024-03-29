@@ -1,2 +1,2 @@
 # HelloWorld
-this reop is for practising github flow
+this repo is for practising github flow
